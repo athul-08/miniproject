@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "mini-sports-51e59": {
+      "hosting": {
+        "sports": [
+          "mini-sports-51e59"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "mini-sports-51e59"
+  }
+}
